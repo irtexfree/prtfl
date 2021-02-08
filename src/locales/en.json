@@ -1,0 +1,64 @@
+{
+  "header": {
+    "1": "I am Vladislav. A web designer from Russia.",
+    "2": "It's a good time to get a closer look at my work"
+  },
+  "portfolio": {
+    "pdo": {
+      "name": "PassportDo",
+      "desc": "Service for verifying freelancer profiles, searching for confirmed customers and executors. The goal of the project is to forget about risks! All freelancers are verified and connect their accounts, which will be available to its customers.",
+      "time": {
+        "name": "Development time",
+        "value": "35 days"
+      },
+      "use": {
+        "name": "Technologies used",
+        "value": [
+          "Bootstrap 4",
+          "HAML",
+          "jQuery"
+        ]
+      },
+      "idea": {
+        "name": "Idea",
+        "value": "Reduce the cost of anonymity!",
+        "desc": "Customers are often faced with the problem of fake accounts on the freelance exchanges, it is difficult to verify the performer when he does not specify any data about himself. The performer, in turn, finds it difficult to update data about himself on each exchange, of which a freelancer may have dozens! PassportDo verification service allows performers to accumulate all their data in one service and pass it on to other exchangers. The customer, seeing the performer's passport"
+      },
+      "strategy": {
+        "name": "strategy",
+        "value": "The entire architecture was built from scratch ",
+        "desc": "I created the architecture of the whole service, all the elements and their representations from the customer's idea of profile identification"
+      },
+      "proto": {
+        "chat": "Chat",
+        "list": "Order List",
+        "modal": "Modals",
+        "rating": "Ratings"
+      },
+      "feature": {
+        "name": "Design",
+        "value": "We created our own concepts for each feature"
+      },
+      "space": {
+        "name": "Explore",
+        "value": "Space to explore the possibilities of the platform."
+      }
+    },
+    "leonica": {
+      "name": "Portfolio",
+      "desc": "Website portfolio using animation technology, in a stylish and youthful, dark solution  ",
+      "time": {
+        "name": "Development time",
+        "value": "35 days"
+      },
+      "use": {
+        "name": "Technologies used",
+        "value": [
+          "Bootstrap 4",
+          "HAML",
+          "jQuery"
+        ]
+      }
+    }
+  }
+}
